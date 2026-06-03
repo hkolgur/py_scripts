@@ -1,0 +1,15 @@
+{
+    "company": "Tech Solutions",
+    "location": "New York",
+    "active": true,
+    "employee_count": 150,
+    "departments": [
+        "Engineering",
+        "Marketing",
+        "Sales"
+    ],
+    "contact_info": {
+        "email": "info@techsolutions.com",
+        "phone": "555-0199"
+    }
+}
